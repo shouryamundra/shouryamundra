@@ -15,6 +15,6 @@
 - **Related stuff** - Git, Redux, Keras & Tensorflow, JWT, Passport, Heroku.
 
 ## What I Want To Learn 🤓:
- Master MERN stack and learn React Native, Electron, Figma, UI/UX, GraphQL and way too much stuff.
+- Master MERN stack and learn React Native, Electron, Figma, UI/UX, GraphQL and way too much stuff.
 ---
 ⭐️ From [shouryamundra](https://github.com/shouryamundra)
